@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Акрукс 2028",
+    "const": "Дева",
+    "class": "W8F",
+    "radius": 862791695,
+    "rotation": "12.46 days",
+    "age": "0.38 billion years",
+    "distance": "9195466.28 million km",
+    "magn": "6.93 million km"
+  },
+  {
+    "name": "Акрукс 3262",
+    "const": "Дева",
+    "class": "C5J",
+    "radius": 976074042,
+    "rotation": "212.04 days",
+    "age": "5.47 billion years",
+    "distance": "7990064.07 million km",
+    "magn": "8.62 million km"
+  },
+  {
+    "name": "Акрукс 4784",
+    "const": "Дева",
+    "class": "A4P",
+    "radius": 133365520,
+    "rotation": "320.73 days",
+    "age": "1.17 billion years",
+    "distance": "973822.33 million km",
+    "magn": "6.8 million km"
+  },
+  {
+    "name": "Акрукс 6023",
+    "const": "Дева",
+    "class": "V7E",
+    "radius": 979565864,
+    "rotation": "499.55 days",
+    "age": "1.99 billion years",
+    "distance": "2181894.63 million km",
+    "magn": "7.7 million km"
+  },
+  {
+    "name": "Альфа Центавра 6364",
+    "const": "Дева",
+    "class": "F5B",
+    "radius": 889136096,
+    "rotation": "803.25 days",
+    "age": "0.71 billion years",
+    "distance": "9650161.2 million km",
+    "magn": "6.3 million km"
+  },
+  {
+    "name": "Альфа Центавра 7370",
+    "const": "Дева",
+    "class": "V2L",
+    "radius": 518640396,
+    "rotation": "414.02 days",
+    "age": "0.97 billion years",
+    "distance": "5209597.83 million km",
+    "magn": "5.48 million km"
+  },
+  {
+    "name": "Альфа Центавра 8601",
+    "const": "Дева",
+    "class": "O0I",
+    "radius": 871883290,
+    "rotation": "580.25 days",
+    "age": "2.82 billion years",
+    "distance": "3587216.4 million km",
+    "magn": "5.54 million km"
+  },
+  {
+    "name": "Антарес 4879",
+    "const": "Дева",
+    "class": "S6U",
+    "radius": 283032388,
+    "rotation": "771.28 days",
+    "age": "4.25 billion years",
+    "distance": "9352647.07 million km",
+    "magn": "8.41 million km"
+  },
+  {
+    "name": "Антарес 6019",
+    "const": "Дева",
+    "class": "D0K",
+    "radius": 97780890,
+    "rotation": "637.78 days",
+    "age": "5.63 billion years",
+    "distance": "955535.8 million km",
+    "magn": "9.82 million km"
+  },
+  {
+    "name": "Антарес 8682",
+    "const": "Дева",
+    "class": "D7K",
+    "radius": 865296444,
+    "rotation": "414.76 days",
+    "age": "5.25 billion years",
+    "distance": "1497304.63 million km",
+    "magn": "7.69 million km"
+  },
+  {
+    "name": "Антарес 9877",
+    "const": "Дева",
+    "class": "F1C",
+    "radius": 41083953,
+    "rotation": "518.51 days",
+    "age": "1.71 billion years",
+    "distance": "4839732.55 million km",
+    "magn": "1.2 million km"
+  },
+  {
+    "name": "Бетельгейзе 6207",
+    "const": "Дева",
+    "class": "D5A",
+    "radius": 340031328,
+    "rotation": "910.48 days",
+    "age": "1.26 billion years",
+    "distance": "2433505.3 million km",
+    "magn": "8.97 million km"
+  },
+  {
+    "name": "Канопус 5228",
+    "const": "Дева",
+    "class": "Q8N",
+    "radius": 563762357,
+    "rotation": "924.62 days",
+    "age": "0.3 billion years",
+    "distance": "9848454.7 million km",
+    "magn": "2.81 million km"
+  },
+  {
+    "name": "Канопус 5583",
+    "const": "Дева",
+    "class": "M2A",
+    "radius": 108511679,
+    "rotation": "198.15 days",
+    "age": "5.22 billion years",
+    "distance": "988223.93 million km",
+    "magn": "6.33 million km"
+  },
+  {
+    "name": "Канопус 6261",
+    "const": "Дева",
+    "class": "J6K",
+    "radius": 361395202,
+    "rotation": "510.44 days",
+    "age": "1.93 billion years",
+    "distance": "4514010.75 million km",
+    "magn": "3.61 million km"
+  },
+  {
+    "name": "Канопус 7385",
+    "const": "Дева",
+    "class": "Q2L",
+    "radius": 190335710,
+    "rotation": "622.09 days",
+    "age": "4.66 billion years",
+    "distance": "3782172.19 million km",
+    "magn": "2.26 million km"
+  },
+  {
+    "name": "Канопус 7718",
+    "const": "Дева",
+    "class": "D7S",
+    "radius": 76920914,
+    "rotation": "986.96 days",
+    "age": "0.08 billion years",
+    "distance": "2741065.46 million km",
+    "magn": "9.13 million km"
+  },
+  {
+    "name": "Канопус 7991",
+    "const": "Дева",
+    "class": "K5E",
+    "radius": 125776823,
+    "rotation": "999.84 days",
+    "age": "0.84 billion years",
+    "distance": "3523131.35 million km",
+    "magn": "1.07 million km"
+  },
+  {
+    "name": "Канопус 9196",
+    "const": "Дева",
+    "class": "O2C",
+    "radius": 838321965,
+    "rotation": "368.26 days",
+    "age": "2.97 billion years",
+    "distance": "2326532.3 million km",
+    "magn": "2.97 million km"
+  },
+  {
+    "name": "Канопус 9283",
+    "const": "Дева",
+    "class": "A6O",
+    "radius": 699955815,
+    "rotation": "177.6 days",
+    "age": "5.25 billion years",
+    "distance": "9948126.1 million km",
+    "magn": "9.14 million km"
+  },
+  {
+    "name": "Полярная звезда 1087",
+    "const": "Дева",
+    "class": "Y2L",
+    "radius": 378563654,
+    "rotation": "855.36 days",
+    "age": "2.86 billion years",
+    "distance": "6393538.67 million km",
+    "magn": "9.43 million km"
+  },
+  {
+    "name": "Полярная звезда 1295",
+    "const": "Дева",
+    "class": "Z3A",
+    "radius": 605681290,
+    "rotation": "855.45 days",
+    "age": "5.51 billion years",
+    "distance": "5788425.16 million km",
+    "magn": "2.34 million km"
+  },
+  {
+    "name": "Полярная звезда 1723",
+    "const": "Дева",
+    "class": "T3O",
+    "radius": 732864947,
+    "rotation": "283.01 days",
+    "age": "5.49 billion years",
+    "distance": "3611527.55 million km",
+    "magn": "9.54 million km"
+  },
+  {
+    "name": "Полярная звезда 1733",
+    "const": "Дева",
+    "class": "S1H",
+    "radius": 826485049,
+    "rotation": "859.97 days",
+    "age": "0.47 billion years",
+    "distance": "9651706.44 million km",
+    "magn": "8.49 million km"
+  },
+  {
+    "name": "Полярная звезда 6484",
+    "const": "Дева",
+    "class": "C8Q",
+    "radius": 313893573,
+    "rotation": "786.39 days",
+    "age": "0.25 billion years",
+    "distance": "5281479.54 million km",
+    "magn": "4.15 million km"
+  },
+  {
+    "name": "Полярная звезда 6518",
+    "const": "Дева",
+    "class": "E2B",
+    "radius": 916038519,
+    "rotation": "906.34 days",
+    "age": "4.92 billion years",
+    "distance": "3812688.96 million km",
+    "magn": "4.8 million km"
+  },
+  {
+    "name": "Ригель 4697",
+    "const": "Дева",
+    "class": "E9M",
+    "radius": 874456149,
+    "rotation": "288.61 days",
+    "age": "4.34 billion years",
+    "distance": "7337937.76 million km",
+    "magn": "8.77 million km"
+  },
+  {
+    "name": "Ригель 9636",
+    "const": "Дева",
+    "class": "A8C",
+    "radius": 352545812,
+    "rotation": "229.81 days",
+    "age": "5.83 billion years",
+    "distance": "2786004.27 million km",
+    "magn": "1.54 million km"
+  },
+  {
+    "name": "Солнце 1824",
+    "const": "Дева",
+    "class": "S6Q",
+    "radius": 461972814,
+    "rotation": "944.86 days",
+    "age": "5.79 billion years",
+    "distance": "1659286.99 million km",
+    "magn": "4.74 million km"
+  },
+  {
+    "name": "Солнце 2112",
+    "const": "Дева",
+    "class": "R3S",
+    "radius": 87692220,
+    "rotation": "804.63 days",
+    "age": "5.96 billion years",
+    "distance": "3613548.23 million km",
+    "magn": "6.79 million km"
+  },
+  {
+    "name": "Солнце 8932",
+    "const": "Дева",
+    "class": "Y4Y",
+    "radius": 720992516,
+    "rotation": "971.73 days",
+    "age": "4.1 billion years",
+    "distance": "6055292.35 million km",
+    "magn": "2.95 million km"
+  },
+  {
+    "name": "Фомалхаут 2172",
+    "const": "Дева",
+    "class": "O0Q",
+    "radius": 496332989,
+    "rotation": "692.42 days",
+    "age": "4.7 billion years",
+    "distance": "4403355.18 million km",
+    "magn": "8.53 million km"
+  },
+  {
+    "name": "Фомалхаут 3900",
+    "const": "Дева",
+    "class": "H7M",
+    "radius": 269537293,
+    "rotation": "188.51 days",
+    "age": "4.59 billion years",
+    "distance": "5058545.94 million km",
+    "magn": "2.0 million km"
+  },
+  {
+    "name": "Фомалхаут 4572",
+    "const": "Дева",
+    "class": "U4F",
+    "radius": 944177417,
+    "rotation": "831.33 days",
+    "age": "2.67 billion years",
+    "distance": "4308839.87 million km",
+    "magn": "7.59 million km"
+  },
+  {
+    "name": "Фомалхаут 5803",
+    "const": "Дева",
+    "class": "E9B",
+    "radius": 511086157,
+    "rotation": "987.17 days",
+    "age": "2.46 billion years",
+    "distance": "2606488.95 million km",
+    "magn": "7.87 million km"
+  },
+  {
+    "name": "Фомалхаут 5820",
+    "const": "Дева",
+    "class": "X5V",
+    "radius": 555848737,
+    "rotation": "42.6 days",
+    "age": "1.1 billion years",
+    "distance": "6593976.98 million km",
+    "magn": "1.67 million km"
+  },
+  {
+    "name": "Фомалхаут 6768",
+    "const": "Дева",
+    "class": "X8E",
+    "radius": 289974926,
+    "rotation": "266.19 days",
+    "age": "1.24 billion years",
+    "distance": "7209049.63 million km",
+    "magn": "1.5 million km"
+  },
+  {
+    "name": "Фомалхаут 7945",
+    "const": "Дева",
+    "class": "R3E",
+    "radius": 849207418,
+    "rotation": "183.73 days",
+    "age": "5.21 billion years",
+    "distance": "8633363.98 million km",
+    "magn": "2.15 million km"
+  },
+  {
+    "name": "Фомалхаут 9220",
+    "const": "Дева",
+    "class": "Y3U",
+    "radius": 804585776,
+    "rotation": "123.58 days",
+    "age": "0.74 billion years",
+    "distance": "1693771.22 million km",
+    "magn": "4.46 million km"
+  },
+  {
+    "name": "Фомальгаут 2259",
+    "const": "Дева",
+    "class": "S7P",
+    "radius": 851565767,
+    "rotation": "582.71 days",
+    "age": "2.39 billion years",
+    "distance": "2101556.02 million km",
+    "magn": "4.52 million km"
+  },
+  {
+    "name": "Фомальгаут 3870",
+    "const": "Дева",
+    "class": "P3P",
+    "radius": 548826069,
+    "rotation": "190.96 days",
+    "age": "0.02 billion years",
+    "distance": "1676364.54 million km",
+    "magn": "9.15 million km"
+  },
+  {
+    "name": "Фомальгаут 4235",
+    "const": "Дева",
+    "class": "L9X",
+    "radius": 161920109,
+    "rotation": "252.93 days",
+    "age": "2.29 billion years",
+    "distance": "1560871.36 million km",
+    "magn": "8.41 million km"
+  },
+  {
+    "name": "Фомальгаут 5716",
+    "const": "Дева",
+    "class": "U6U",
+    "radius": 275264712,
+    "rotation": "541.7 days",
+    "age": "2.66 billion years",
+    "distance": "6567954.71 million km",
+    "magn": "8.04 million km"
+  },
+  {
+    "name": "Фомальгаут 6677",
+    "const": "Дева",
+    "class": "W0L",
+    "radius": 276140276,
+    "rotation": "807.63 days",
+    "age": "0.91 billion years",
+    "distance": "1662697.72 million km",
+    "magn": "8.2 million km"
+  },
+  {
+    "name": "Фомальгаут 9672",
+    "const": "Дева",
+    "class": "N9U",
+    "radius": 955399484,
+    "rotation": "570.58 days",
+    "age": "0.17 billion years",
+    "distance": "216692.54 million km",
+    "magn": "8.07 million km"
+  },
+  {
+    "name": "Хадар 1951",
+    "const": "Дева",
+    "class": "G0T",
+    "radius": 621120735,
+    "rotation": "849.87 days",
+    "age": "4.5 billion years",
+    "distance": "5920665.53 million km",
+    "magn": "9.64 million km"
+  },
+  {
+    "name": "Хадар 9789",
+    "const": "Дева",
+    "class": "R9A",
+    "radius": 590274063,
+    "rotation": "66.04 days",
+    "age": "0.82 billion years",
+    "distance": "1592523.16 million km",
+    "magn": "4.48 million km"
+  },
+  {
+    "name": "Хадар 9898",
+    "const": "Дева",
+    "class": "V6O",
+    "radius": 596521561,
+    "rotation": "92.9 days",
+    "age": "4.83 billion years",
+    "distance": "7415109.86 million km",
+    "magn": "8.33 million km"
+  }
+]
